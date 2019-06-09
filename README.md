@@ -64,6 +64,7 @@ I used the following methods to train a Binary Classifier to predict Income (Y) 
 #### Results:
 
 - Compare different methods to predict **Income (Y)**
+
 **Method**  | Accuracy (A) | Reweighted accuracy (R)  |  DP Accuracy
 ------------- | ------------- | ------------- | -------------
 **Binary Logistic Regression**  | 79.5%  | 81.92% |  **0.04**
