@@ -10,13 +10,14 @@ The main objective is:
 -  Number of training samples: 32,561 samples and the Number of testing samples: 16,281 samples.
 
 ## Data Visualization:
-- The data-set is Unbalanced, umber of males is more larger than the number of females.
 
-![gender_hist](https://github.com/montaserFath/Fair-classifier-and-Fair-Representation/blob/master/Results/gender_hist.png)
+- The data-set is Unbalanced,  Number of males is more larger than the number of females. also, number of people who has less than 50K per year is more larger than the number people who get more thank 50K per Year
 
-- The data-set is Unbalanced, number of people who has less than 50K per year is more larger than the number people who get more thank 50K per Year.
 
-![income_hist](https://github.com/montaserFath/Fair-classifier-and-Fair-Representation/blob/master/Results/income_hist.png)
+Number of males is more larger than the number of females      |  number of people who has less than 50K per year is more larger than who get more thank 50K per Year. 
+:-------------------------:|:-------------------------:
+![](https://github.com/montaserFath/Fair-classifier-and-Fair-Representation/blob/master/Results/gender_hist.png)  |  ![](https://github.com/montaserFath/Fair-classifier-and-Fair-Representation/blob/master/Results/income_hist.png)
+
 
 ## Accuracy Functions:
 
